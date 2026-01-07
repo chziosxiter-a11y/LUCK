@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "DELETE",
+      "key": "apelaxablauffx-days-GS653NJT8",
+      "time": "07/01/2026, 06:06:21"
+    },
+    {
       "action": "ACTIVE",
       "key": "apelaxablauffx-days-GS653NJT8",
       "time": "07/01/2026, 05:24:22"
@@ -53,14 +58,5 @@
     "usedAt": null,
     "duration": 60000,
     "durationText": "1 minutes"
-  },
-  "apelaxablauffx-days-GS653NJT8": {
-    "key": "apelaxablauffx-days-GS653NJT8",
-    "status": "inactive",
-    "createdAt": 1767773240710,
-    "usedAt": 1767774097110,
-    "duration": 86400000,
-    "durationText": "1 days",
-    "expiresAt": 1767860497110
   }
 }
