@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "CREATE",
+      "key": "realtrick-permanent-0AHWP4XBY",
+      "time": "07/01/2026, 06:08:35"
+    },
+    {
       "action": "DELETE",
       "key": "apelaxablauffx-seconds-65YRUPQCP",
       "time": "07/01/2026, 06:08:00"
@@ -65,5 +70,13 @@
       "key": "apelaxablauffx-days-J2Y04NMbp2wKk7yH",
       "time": "03/01/2026, 22:57:43"
     }
-  ]
+  ],
+  "realtrick-permanent-0AHWP4XBY": {
+    "key": "realtrick-permanent-0AHWP4XBY",
+    "status": "active",
+    "createdAt": 1767776915643,
+    "usedAt": null,
+    "duration": null,
+    "durationText": "1 permanent"
+  }
 }
