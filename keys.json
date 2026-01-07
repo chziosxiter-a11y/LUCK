@@ -53,8 +53,9 @@
     "key": "apelaxablauffx-days-GS653NJT8",
     "status": "active",
     "createdAt": 1767773240710,
-    "usedAt": null,
+    "usedAt": 1767774097110,
     "duration": 86400000,
-    "durationText": "1 days"
+    "durationText": "1 days",
+    "expiresAt": 1767860497110
   }
 }
