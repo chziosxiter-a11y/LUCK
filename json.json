@@ -1,0 +1,17 @@
+{
+  "apelaxablauffx-seconds-6IYXXJPXM": {
+    "key": "apelaxablauffx-seconds-6IYXXJPXM",
+    "status": "active",
+    "createdAt": 1767772832701,
+    "usedAt": null,
+    "duration": 1000,
+    "durationText": "1 seconds"
+  },
+  "logs": [
+    {
+      "action": "CREATE",
+      "key": "apelaxablauffx-seconds-6IYXXJPXM",
+      "time": "07/01/2026, 05:00:32"
+    }
+  ]
+}
