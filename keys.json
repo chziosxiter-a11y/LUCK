@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "CREATE",
+      "key": "realtrick-seconds-QPKZZIU5Z",
+      "time": "07/01/2026, 18:46:30"
+    },
+    {
+      "action": "CREATE",
       "key": "realtrick-permanent-0AHWP4XBY",
       "time": "07/01/2026, 06:08:35"
     },
@@ -78,5 +83,13 @@
     "usedAt": 1767776935866,
     "duration": null,
     "durationText": "1 permanent"
+  },
+  "realtrick-seconds-QPKZZIU5Z": {
+    "key": "realtrick-seconds-QPKZZIU5Z",
+    "status": "active",
+    "createdAt": 1767822390203,
+    "usedAt": null,
+    "duration": 4000,
+    "durationText": "4 seconds"
   }
 }
