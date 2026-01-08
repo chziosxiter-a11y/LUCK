@@ -122,8 +122,9 @@
     "key": "realtrick-hours-WFU47U90X",
     "status": "active",
     "createdAt": 1767843399349,
-    "usedAt": null,
+    "usedAt": 1767843602466,
     "duration": 3600000,
-    "durationText": "1 hours"
+    "durationText": "1 hours",
+    "expiresAt": 1767847202466
   }
 }
