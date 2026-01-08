@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "CREATE",
+      "key": "realtrick-hours-WFU47U90X",
+      "time": "08/01/2026, 00:36:39"
+    },
+    {
+      "action": "CREATE",
       "key": "realtrick-seconds-M3U3XFW7I",
       "time": "07/01/2026, 18:50:24"
     },
@@ -112,5 +117,13 @@
     "duration": 4000,
     "durationText": "4 seconds",
     "expiresAt": 1767822638315
+  },
+  "realtrick-hours-WFU47U90X": {
+    "key": "realtrick-hours-WFU47U90X",
+    "status": "active",
+    "createdAt": 1767843399349,
+    "usedAt": null,
+    "duration": 3600000,
+    "durationText": "1 hours"
   }
 }
