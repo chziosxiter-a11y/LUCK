@@ -105,9 +105,10 @@
     "key": "realtrick-seconds-7HZU22T7C",
     "status": "active",
     "createdAt": 1767822522774,
-    "usedAt": null,
+    "usedAt": 1767998327678,
     "duration": 4000,
-    "durationText": "4 seconds"
+    "durationText": "4 seconds",
+    "expiresAt": 1767998331678
   },
   "realtrick-seconds-M3U3XFW7I": {
     "key": "realtrick-seconds-M3U3XFW7I",
