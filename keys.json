@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "DELETE",
+      "key": "realtrick-seconds-7HZU22T7C",
+      "time": "09/01/2026, 19:39:16"
+    },
+    {
       "action": "CREATE",
       "key": "realtrick-hours-WFU47U90X",
       "time": "08/01/2026, 00:36:39"
@@ -101,15 +106,6 @@
       "time": "03/01/2026, 22:57:43"
     }
   ],
-  "realtrick-seconds-7HZU22T7C": {
-    "key": "realtrick-seconds-7HZU22T7C",
-    "status": "active",
-    "createdAt": 1767822522774,
-    "usedAt": 1767998327678,
-    "duration": 4000,
-    "durationText": "4 seconds",
-    "expiresAt": 1767998331678
-  },
   "realtrick-seconds-M3U3XFW7I": {
     "key": "realtrick-seconds-M3U3XFW7I",
     "status": "active",
