@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "CREATE",
+      "key": "RealTrick-month-1N2KXBV45",
+      "time": "10/01/2026, 19:52:40"
+    },
+    {
+      "action": "CREATE",
       "key": "RealTrick-days-QYO6UK7OZ",
       "time": "10/01/2026, 19:52:17"
     },
@@ -138,5 +143,13 @@
     "usedAt": null,
     "duration": 604800000,
     "durationText": "7 days"
+  },
+  "RealTrick-month-1N2KXBV45": {
+    "key": "RealTrick-month-1N2KXBV45",
+    "status": "active",
+    "createdAt": 1768085560419,
+    "usedAt": null,
+    "duration": 2592000000,
+    "durationText": "1 month"
   }
 }
