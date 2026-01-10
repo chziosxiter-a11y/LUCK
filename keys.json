@@ -162,8 +162,9 @@
     "key": "RealTrick-days-J6YSHTGD1",
     "status": "active",
     "createdAt": 1768087950101,
-    "usedAt": null,
+    "usedAt": 1768088026119,
     "duration": 86400000,
-    "durationText": "1 days"
+    "durationText": "1 days",
+    "expiresAt": 1768174426119
   }
 }
