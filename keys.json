@@ -148,8 +148,9 @@
     "key": "RealTrick-month-1N2KXBV45",
     "status": "active",
     "createdAt": 1768085560419,
-    "usedAt": null,
+    "usedAt": 1768085600396,
     "duration": 2592000000,
-    "durationText": "1 month"
+    "durationText": "1 month",
+    "expiresAt": 1770677600396
   }
 }
