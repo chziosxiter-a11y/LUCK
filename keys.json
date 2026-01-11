@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "CREATE",
+      "key": "RealTrick-seconds-EUD28P8OL",
+      "time": "11/01/2026, 05:30:45"
+    },
+    {
       "action": "DELETE",
       "key": "RealTrick-seconds-9MINSQNPS",
       "time": "11/01/2026, 05:30:40"
@@ -191,5 +196,13 @@
     "duration": 86400000,
     "durationText": "1 days",
     "expiresAt": 1768174426119
+  },
+  "RealTrick-seconds-EUD28P8OL": {
+    "key": "RealTrick-seconds-EUD28P8OL",
+    "status": "active",
+    "createdAt": 1768120245133,
+    "usedAt": null,
+    "duration": 15000,
+    "durationText": "15 seconds"
   }
 }
