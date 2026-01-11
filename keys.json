@@ -186,8 +186,9 @@
     "key": "RealTrick-seconds-9MINSQNPS",
     "status": "active",
     "createdAt": 1768120110653,
-    "usedAt": null,
+    "usedAt": 1768120200597,
     "duration": 12000,
-    "durationText": "12 seconds"
+    "durationText": "12 seconds",
+    "expiresAt": 1768120212597
   }
 }
