@@ -201,8 +201,9 @@
     "key": "RealTrick-seconds-EUD28P8OL",
     "status": "active",
     "createdAt": 1768120245133,
-    "usedAt": null,
+    "usedAt": 1768120293942,
     "duration": 15000,
-    "durationText": "15 seconds"
+    "durationText": "15 seconds",
+    "expiresAt": 1768120308942
   }
 }
