@@ -200,9 +200,10 @@
     "key": "RealTrick-days-QYO6UK7OZ",
     "status": "active",
     "createdAt": 1768085537323,
-    "usedAt": null,
+    "usedAt": 1768214907092,
     "duration": 604800000,
-    "durationText": "7 days"
+    "durationText": "7 days",
+    "expiresAt": 1768819707092
   },
   "RealTrick-month-1N2KXBV45": {
     "key": "RealTrick-month-1N2KXBV45",
