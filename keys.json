@@ -215,8 +215,9 @@
     "key": "RealTrick-minutes-JSOP3L5VR",
     "status": "active",
     "createdAt": 1768212867602,
-    "usedAt": null,
+    "usedAt": 1768212902812,
     "duration": 60000,
-    "durationText": "1 minutes"
+    "durationText": "1 minutes",
+    "expiresAt": 1768212962812
   }
 }
