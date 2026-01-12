@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "CREATE",
+      "key": "RealTrick-minutes-S5HYJLLW5",
+      "time": "12/01/2026, 07:25:53"
+    },
+    {
       "action": "DELETE",
       "key": "RealTrick-days-J6YSHTGD1",
       "time": "12/01/2026, 07:25:46"
@@ -211,5 +216,13 @@
     "duration": 15000,
     "durationText": "15 seconds",
     "expiresAt": 1768120308942
+  },
+  "RealTrick-minutes-S5HYJLLW5": {
+    "key": "RealTrick-minutes-S5HYJLLW5",
+    "status": "active",
+    "createdAt": 1768213553537,
+    "usedAt": null,
+    "duration": 60000,
+    "durationText": "1 minutes"
   }
 }
