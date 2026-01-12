@@ -234,8 +234,9 @@
     "key": "RealTrick-days-37M3K3NGP",
     "status": "active",
     "createdAt": 1768213679522,
-    "usedAt": null,
+    "usedAt": 1768213689621,
     "duration": 604800000,
-    "durationText": "7 days"
+    "durationText": "7 days",
+    "expiresAt": 1768818489621
   }
 }
