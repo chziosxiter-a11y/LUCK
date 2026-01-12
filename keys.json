@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "CREATE",
+      "key": "RealTrick-minutes-JSOP3L5VR",
+      "time": "12/01/2026, 07:14:27"
+    },
+    {
+      "action": "CREATE",
       "key": "RealTrick-seconds-EUD28P8OL",
       "time": "11/01/2026, 05:30:45"
     },
@@ -205,5 +210,13 @@
     "duration": 15000,
     "durationText": "15 seconds",
     "expiresAt": 1768120308942
+  },
+  "RealTrick-minutes-JSOP3L5VR": {
+    "key": "RealTrick-minutes-JSOP3L5VR",
+    "status": "active",
+    "createdAt": 1768212867602,
+    "usedAt": null,
+    "duration": 60000,
+    "durationText": "1 minutes"
   }
 }
