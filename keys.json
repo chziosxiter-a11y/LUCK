@@ -268,8 +268,9 @@
     "key": "RealTrick-hours-0WXNFKXAQ",
     "status": "active",
     "createdAt": 1768822733763,
-    "usedAt": null,
+    "usedAt": 1768822743498,
     "duration": 3600000,
-    "durationText": "1 hours"
+    "durationText": "1 hours",
+    "expiresAt": 1768826343498
   }
 }
