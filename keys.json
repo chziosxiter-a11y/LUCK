@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "CREATE",
+      "key": "RealTrick-hours-0WXNFKXAQ",
+      "time": "19/01/2026, 08:38:53"
+    },
+    {
+      "action": "CREATE",
       "key": "RealTrick-hours-9P1KZMJBG",
       "time": "19/01/2026, 08:38:24"
     },
@@ -255,6 +260,14 @@
     "key": "RealTrick-hours-9P1KZMJBG",
     "status": "active",
     "createdAt": 1768822704246,
+    "usedAt": null,
+    "duration": 3600000,
+    "durationText": "1 hours"
+  },
+  "RealTrick-hours-0WXNFKXAQ": {
+    "key": "RealTrick-hours-0WXNFKXAQ",
+    "status": "active",
+    "createdAt": 1768822733763,
     "usedAt": null,
     "duration": 3600000,
     "durationText": "1 hours"
