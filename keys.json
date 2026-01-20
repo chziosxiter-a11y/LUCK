@@ -282,8 +282,9 @@
     "key": "RealTrick-days-2CQ7DH40A",
     "status": "active",
     "createdAt": 1768886296846,
-    "usedAt": null,
+    "usedAt": 1768886304614,
     "duration": 604800000,
-    "durationText": "7 days"
+    "durationText": "7 days",
+    "expiresAt": 1769491104614
   }
 }
