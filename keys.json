@@ -296,8 +296,9 @@
     "key": "RealTrick-seconds-JA5A2TXLO",
     "status": "active",
     "createdAt": 1768886389698,
-    "usedAt": null,
+    "usedAt": 1768886428565,
     "duration": 5000,
-    "durationText": "5 seconds"
+    "durationText": "5 seconds",
+    "expiresAt": 1768886433565
   }
 }
