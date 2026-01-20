@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "CREATE",
+      "key": "RealTrick-days-2CQ7DH40A",
+      "time": "20/01/2026, 02:18:16"
+    },
+    {
+      "action": "CREATE",
       "key": "RealTrick-hours-0WXNFKXAQ",
       "time": "19/01/2026, 08:38:53"
     },
@@ -272,5 +277,13 @@
     "duration": 3600000,
     "durationText": "1 hours",
     "expiresAt": 1768826343498
+  },
+  "RealTrick-days-2CQ7DH40A": {
+    "key": "RealTrick-days-2CQ7DH40A",
+    "status": "active",
+    "createdAt": 1768886296846,
+    "usedAt": null,
+    "duration": 604800000,
+    "durationText": "7 days"
   }
 }
