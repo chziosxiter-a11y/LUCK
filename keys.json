@@ -17,6 +17,14 @@
     "durationText": "1 month",
     "expiresAt": 1770677600396
   },
+  "RealTrick-minutes-S5HYJLLW5": {
+    "key": "RealTrick-minutes-S5HYJLLW5",
+    "status": "active",
+    "createdAt": 1768213553537,
+    "usedAt": null,
+    "duration": 60000,
+    "durationText": "1 minutes"
+  },
   "RealTrick-days-37M3K3NGP": {
     "key": "RealTrick-days-37M3K3NGP",
     "status": "active",
@@ -60,15 +68,6 @@
     "duration": 5000,
     "durationText": "5 seconds",
     "expiresAt": 1768886433565
-  },
-  "FFH4X-second-8np3uHeC3IuHEkQY": {
-    "key": "FFH4X-second-8np3uHeC3IuHEkQY",
-    "status": "active",
-    "createdAt": 1769162484831,
-    "usedAt": 1769162582441,
-    "duration": 5000,
-    "durationText": "5 second",
-    "expiresAt": 1769162587441
   },
   "FFH4X-second-oSSu9WeAZKQi8uwb": {
     "key": "FFH4X-second-oSSu9WeAZKQi8uwb",
