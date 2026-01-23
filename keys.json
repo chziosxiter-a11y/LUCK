@@ -17,14 +17,6 @@
     "durationText": "1 month",
     "expiresAt": 1770677600396
   },
-  "RealTrick-minutes-S5HYJLLW5": {
-    "key": "RealTrick-minutes-S5HYJLLW5",
-    "status": "active",
-    "createdAt": 1768213553537,
-    "usedAt": null,
-    "duration": 60000,
-    "durationText": "1 minutes"
-  },
   "RealTrick-days-37M3K3NGP": {
     "key": "RealTrick-days-37M3K3NGP",
     "status": "active",
