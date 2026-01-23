@@ -73,9 +73,9 @@
     "key": "FFH4X-second-8np3uHeC3IuHEkQY",
     "status": "active",
     "createdAt": 1769162484831,
-    "usedAt": null,
+    "usedAt": 1769162582441,
     "duration": 5000,
     "durationText": "5 second",
-    "expiresAt": 1769162489831
+    "expiresAt": 1769162587441
   }
 }
