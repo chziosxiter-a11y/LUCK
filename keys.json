@@ -86,5 +86,20 @@
     "duration": 3000,
     "durationText": "3 second",
     "expiresAt": 1769163070459
-  }
+  },
+  "FFH4X-minutes-P7UZ4AK7D": {
+    "key": "FFH4X-minutes-P7UZ4AK7D",
+    "status": "active",
+    "createdAt": 1769362436665,
+    "usedAt": null,
+    "duration": 60000,
+    "durationText": "1 minutes"
+  },
+  "logs": [
+    {
+      "action": "CREATE",
+      "key": "FFH4X-minutes-P7UZ4AK7D",
+      "time": "25/01/2026, 14:33:56"
+    }
+  ]
 }
